@@ -14,6 +14,8 @@ To make a request on the endpoint \predict run command:
 To use the jupyter notebook and run it on the server
 
 On bash locally run
-```ssh -N -f -L localhost:8888:localhost:8866 your_username@nlp8.cs.ucla.edu```
+```ssh -N -f -L localhost:PORT_OF_YOUR_CHOICE:localhost:8866 your_username@nlp8.cs.ucla.edu```
 
-Then on browser of your choice go to this url : ``` http://localhost:8888/ ``` and go to AllenNLPDemo.ipynb.
+PORT_OF_YOUR_CHOICE is any port number you want to use. your_username is the way that you log into nlp8
+
+Then on browser of your choice go to this url : ``` http://localhost:PORT_OF_YOUR_CHOICE/ ``` and go to AllenNLPDemo.ipynb.
