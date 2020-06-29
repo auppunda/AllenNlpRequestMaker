@@ -1,4 +1,4 @@
-# ALLENNLPDEMO LOCAL SERVER
+# ALLEN NLP DEMO LOCAL SERVER
 
 There are two ways to use this repo:
 
