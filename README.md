@@ -14,7 +14,7 @@ To use the jupyter notebook and run it on the server
 
 On bash locally run 
 
-```ssh -N -f -L localhost:PORT_OF_YOUR_CHOICE:localhost:8866 your_username@nlp8.cs.ucla.edu```
+```ssh -N -f -L localhost:PORT_OF_YOUR_CHOICE:localhost:8867 your_username@nlp8.cs.ucla.edu```
 
 PORT_OF_YOUR_CHOICE is any port number you want to use. your_username is the way that you log into nlp8
 
